@@ -1,6 +1,6 @@
-export interface IdeaDTO{
+export class IdeaDTO{
 
     idea:string;
-    
+
     description:string;
 }
